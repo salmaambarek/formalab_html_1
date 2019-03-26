@@ -1,0 +1,17 @@
+#section1{
+    height: 300px;
+    background-color: #FF6600;
+}
+#section2{
+    height: 300px;
+    font-style:italic;
+    
+}
+h1{
+    text-align:center;
+font-style:italic;
+}
+#section3{
+    height: 300px;
+    background-color: #4c4d4c
+}
