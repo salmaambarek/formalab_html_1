@@ -7,3 +7,9 @@ color:blue;
 }
 #parared
 {color:red;}
+.vt{
+    color:green;
+}
+.bord{
+    border:1px solid green;
+}
