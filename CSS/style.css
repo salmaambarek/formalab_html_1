@@ -13,3 +13,40 @@ color:blue;
 .bord{
     border:1px solid green;
 }
+a {
+    color: red;text-decoration:none;
+}
+a:hover{
+    color:green;text-decoration:underline;
+}
+a:visited{
+    color:grey;
+
+}
+a{
+    font-style:italic;
+}
+p{
+    color:green;
+    color:rgb(0,255,0);
+    color:#00ff00;
+}
+p{
+    background-color: rgba(255,0,0,0.5);
+}
+p{
+    background-image:url() 
+}
+body{
+    background-image: url(../logo2.png);
+    background-size:  cover;
+    background-attachment: fixed;
+}
+body{
+    height:50px;
+    width: 50%;
+}
+li{
+    list-style-image:url(../dd.png);
+    display: inline;
+}
