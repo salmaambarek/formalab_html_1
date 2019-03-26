@@ -42,10 +42,7 @@ body{
     background-size:  cover;
     background-attachment: fixed;
 }
-body{
-    height:50px;
-    width: 50%;
-}
+
 li{
     list-style-image:url(../dd.png);
     display: inline;
