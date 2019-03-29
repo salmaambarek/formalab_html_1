@@ -14,5 +14,5 @@ do{
 
 }
  
- }while(x!=nb)
+ }while(x!=nb|| rep!=8)
 
